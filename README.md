@@ -23,8 +23,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: SATHYA NARAYANAN A
-RegisterNumber: 212225040392
+Developed by: SUDHARSAN U
+RegisterNumber: 212225040433
 */
 ```
 ```python
